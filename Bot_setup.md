@@ -17,12 +17,12 @@ To get started type
 ```
 in collabland-config channel
 <br></br>
-Next is to setup role
+Next is to setup role,type
 
 ```
 !setup role
 ````
-Use '!setup role' in the collabland-config channel to set up token permissions and assign them to roles created in the Discord server settings. 
+in the collabland-config channel to set up token permissions and assign them to roles created in the Discord server settings. 
 
 Once set up, community members can enter !join in any public channel to participate in your token economy!
 
